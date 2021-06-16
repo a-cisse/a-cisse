@@ -10,7 +10,7 @@ I build web apps and cross platform mobile apps in **React**, **Next.js**, **Rea
 <a href="https://www.linkedin.com/in/alexandre-cissé-52485859"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### **Frontend Skills**
+### **Frontend**
 
 <p>
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,9 +32,11 @@ I build web apps and cross platform mobile apps in **React**, **Next.js**, **Rea
 <img width="30" src="./assets/chakra.png">
 
 <img width="30" src="./assets/material-ui.svg">
+
+<img width="30" src="./assets/styled-components.svg">
 </p>
 
-### **Backend Skills**
+### **Backend**
 
 <p>
 <img width="30" src="./assets/aws.svg">
@@ -46,6 +48,19 @@ I build web apps and cross platform mobile apps in **React**, **Next.js**, **Rea
 <img width="30" src="./assets/nodejs.svg">
 
 <img width="30" src="./assets/mongodb.svg">
+</p>
+
+### **Tools**
+
+<p>
+<img width="30" src="./assets/eslint.svg">
+
+<img width="30" src="./assets/prettier.svg">
+
+<img width="20" src="./assets/github.svg">
+
+<img width="30" src="./assets/gitlab.svg">
+
 </p>
 
 ### **Deployment**
