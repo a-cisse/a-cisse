@@ -40,26 +40,20 @@ I build web apps and cross platform mobile apps in **React**, **Next.js**, **Rea
 
 <p>
 <img width="30" src="./assets/aws.svg">
-
 <img width="30" src="./assets/firebase.svg">
-
 <img width="30" src="./assets/graphql.svg">
-
 <img width="30" src="./assets/nodejs.svg">
-
 <img width="30" src="./assets/mongodb.svg">
 </p>
 
 ### **Tools**
 
 <p>
+<img width="30" src="./assets/git.svg">
+<img width="30" src="./assets/cypress.svg">
+<img width="30" src="./assets/jest.svg">
 <img width="30" src="./assets/eslint.svg">
-
 <img width="30" src="./assets/prettier.svg">
-
-<img width="20" src="./assets/github.svg">
-
-<img width="30" src="./assets/gitlab.svg">
 
 </p>
 
