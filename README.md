@@ -1,9 +1,9 @@
-![Alexandre Cissé - Fullstack serverless developer](./assets/banner.png)
+![Alexandre Cissé - Mobile and web developer](./assets/banner.png)
 
 <p>
-<i>Hi, I'm Alex a Fullstack Serverless Developer.
+<i>Hi, I'm Alex a Mobile and Web Developer.
   
-I build web apps and cross platform mobile apps in **React**, **Next.js**, **React Native** using the cloud technology and infrastructure for the backend part.</i>
+I build cross platform mobile and web applications in the cloud using **React Native**, **React**, **Next.js**, **Typescript** and **Amazon Web Services**</i>
 </p>
 
 <p>
