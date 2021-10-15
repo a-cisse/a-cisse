@@ -3,7 +3,9 @@
 <p>
 <i>Hi, I'm Alex a Mobile and Web Developer.
   
-I build cross platform mobile and web applications in the cloud using **React Native**, **React**, **Next.js**, **Typescript** and **Amazon Web Services**</i>
+I build cross platform mobile and web applications with **React Native**, **Flutter**, **React**, **Next.js**, **Typescript**. 
+<br />
+I leverage cloud computing and serverless databases with **Firebase** and **Amazon Web Services**.</i>
 </p>
 
 <p>
@@ -24,6 +26,8 @@ I build cross platform mobile and web applications in the cloud using **React Na
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img width="30" src="./assets/flutter.svg">
 
 <img width="30" src="./assets/next.svg">
 
