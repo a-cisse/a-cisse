@@ -3,9 +3,10 @@
 <p>
 <i>Hi, I'm Alex a Mobile and Web Developer.
   
-I build cross platform mobile and web applications with **React Native**, **Flutter**, **React**, **Next.js**, **Typescript**. 
+I help fast-growing enterprises build their mobile application in record time, by leveraging serverless and cross-platform technologies. 
 <br />
-I leverage cloud computing and serverless databases with **Firebase** and **Amazon Web Services**.</i>
+Also I like to deliver great user experience and delightful user interfaces.
+</i>
 </p>
 
 <p>
