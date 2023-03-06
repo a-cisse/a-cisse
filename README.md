@@ -2,15 +2,13 @@
 
 <p>
 <i>Hi! My name is Alex 🙋🏾‍♂️ 
-<br>I'm a mobile developer with a passion for UX / UI. I help startups and scaleups to create their cross-platform iOS and Android applications and deploy them on the app stores.
-
-Thanks to my several years of experience I can also give recommendations to improve projects and processes.
-
-If you have any questions, don't hesitate and send me a message.
-
-Thanks!
+<br>
+As an app developer with a passion for cross-platform technologies, I've built several mobile apps using cross-platform technologies that have received great feedback from users. As I continue to develop my skills, I'm now focused on learning native iOS development with SwiftUI to create even more exceptional user experiences.
+<br>
+My expertise in cross-platform technologies has given me a unique perspective on the development process, allowing me to identify and leverage the strengths of different platforms. With SwiftUI, I'm excited to explore the endless possibilities for creating beautiful, intuitive apps that are a joy to use.
+<br>
+As I continue my journey towards becoming a skilled native iOS developer, I'm eager to apply my knowledge and experience to create apps that make a real difference in people's lives. If you're looking for an app developer who is passionate about creating exceptional user experiences, I'd love to connect and discuss how I can help bring your ideas to life.
 </i>
-
 </p>
 
 <p>
