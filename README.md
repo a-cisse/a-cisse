@@ -14,7 +14,7 @@ As a software developer with 4 years of experience in cross-platform technologie
 ### **Mobile**
 
 <p style="display:flex;align-items:center">
-<img style="margin-right:8px;" width="40" src="./assets/swiftui.svg">
+<img style="margin-right:8px;" width="30" src="./assets/swiftui.png">
 <img style="margin-right:8px;" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img style="margin-right:8px;" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img style="margin-right:8px;" width="22" src="./assets/flutter.svg">
