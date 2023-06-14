@@ -1,37 +1,30 @@
-![Alexandre Cissé - Mobile developer](./assets/banner.png)
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Professional</a></h1>
 
-<p>
-<i>Hi! My name is Alex 🙋🏾‍♂️ 
-<br>
-As a software developer with 4 years of experience in cross-platform technologies and Agile environments, I have collaborated with international teams to build top-notch web and mobile applications. Currently transitioning to native iOS development with SwiftUI, I am eager to craft visually captivating, user-friendly apps that make a meaningful impact. Passionate about delivering exceptional user experiences, I look forward to collaborating on innovative projects.
-</i>
-</p>
+<p>I'm a Cybersecurity Analyst with a unique edge: 4 years as a web and mobile developer. My technical background powers my expertise in vulnerability assessment, cloud platforms (Azure, AWS), and the fundamentals of Security+. I'm passionate about leveraging this unique combination of skills to safeguard digital landscapes. Keen to connect with like-minded professionals and explore opportunities in the dynamic field of cybersecurity.</p>
 
-<p>
-<a href="https://www.linkedin.com/in/alexandre-cissé-52485859"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<h2>🔐 Cybersecurity Projects:</h2>
 
-### **Mobile**
+- <b>Azure / Cloud Projects</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/alexCoding42/Cloud-SOC)
+- <b>Vulnerability Management Projects</b>
+  - [Building a Vulnerability Management Lab (Nessus)](https://github.com/alexCoding42/Nessus-Lab)
 
-<p style="display:flex;align-items:center">
-<img style="margin-right:8px;" width="30" src="./assets/swiftui.png">
-<img style="margin-right:8px;" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img style="margin-right:8px;" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img style="margin-right:8px;" width="22" src="./assets/flutter.svg">
-</p>
+<h2>📱 Mobile Application Projects:</h2>
 
-### **Backend**
+- <b>React Native</b>
+  - [Chaldean Numbers](https://github.com/alexCoding42/chaldean-numbers)
+  - [TranslatorGPT](https://github.com/alexCoding42/translator-gpt)
 
-<p style="display:flex;align-items:center">
-<img style="margin-right:8px;" width="25" src="./assets/graphql.svg">
-<img style="margin-right:8px;" width="30" src="./assets/aws.svg">
-<img style="margin-right:8px;" width="20" src="./assets/firebase.svg">
-</p>
+- <b>Flutter</b>
+  - [Marvel Universe](https://github.com/alexCoding42/marvel_characters)
 
-### **Testing**
+<h2>🖥️ Web Application Projects:</h2>
 
-<p style="display:flex;align-items:center">
-<img style="margin-right:8px;" width="30" src="./assets/maestro.svg">
-<img style="margin-right:8px;" width="30" src="./assets/detox.png">
-<img style="margin-right:8px;" width="30" src="./assets/jest.svg">
-</p>
+- <b>React</b>
+  - [Corona Tracker](https://github.com/alexCoding42/corona-tracker)
+
+<h2> 🤳🏾 Connect with me:</h2>
+
+[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/alexandrecisse
