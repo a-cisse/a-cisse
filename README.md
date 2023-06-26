@@ -5,7 +5,7 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/alexCoding42/Cloud-SOC)
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/alexCoding42/Cloud-SOC-Honeynet)
 - <b>Vulnerability Management Projects</b>
   - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
   - [Building a Vulnerability Management Lab (Nessus)](https://github.com/alexCoding42/Nessus-Lab)
