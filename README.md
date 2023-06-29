@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Professional</a></h1>
 
-<p>I'm a Cybersecurity Analyst with a unique edge: 4 years as a web and mobile developer. My technical background powers my expertise in vulnerability assessment, cloud platforms (Azure, AWS), and the fundamentals of Security+. I'm passionate about leveraging this unique combination of skills to safeguard digital landscapes. Keen to connect with like-minded professionals and explore opportunities in the dynamic field of cybersecurity.</p>
+<p>Dedicated Cybersecurity Analyst focused on safeguarding assets against emerging threats. With a solid foundation in web and mobile development, I bring a unique perspective to the table. My 4 years of experience have honed my skills in applying secure coding practices and conducting thorough code reviews to prevent vulnerabilities. As a Cybersecurity Analyst enthusiast, I possess a deep understanding of fundamental security concepts and excel in leveraging cloud platforms like Azure and AWS to prevent, mitigate and remediate threats. Notably, I have successfully built SOC and Honeynet systems, as well as designed vulnerability management labs. Ready to take on new challenges and safeguard organizations from emerging cyber threats.</p>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
