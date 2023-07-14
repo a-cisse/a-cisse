@@ -1,6 +1,9 @@
 <h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Professional</a></h1>
 
-<p>Dedicated Cybersecurity Analyst focused on safeguarding assets against emerging threats. With a solid foundation in web and mobile development, I bring a unique perspective to the table. My 4 years of experience have honed my skills in applying secure coding practices and conducting thorough code reviews to prevent vulnerabilities. As a Cybersecurity Analyst enthusiast, I possess a deep understanding of fundamental security concepts and excel in leveraging cloud platforms like Azure and AWS to prevent, mitigate and remediate threats. Notably, I have successfully built SOC and Honeynet systems, as well as designed vulnerability management labs. Ready to take on new challenges and safeguard organizations from emerging cyber threats.</p>
+<p>I am a bilingual (French/English) cybersecurity professional with hands-on experience in vulnerability management, vulnerability assessment, and vulnerability scanning using various tools and techniques. 
+I have also built and operated SOC and Honeynet systems to monitor and respond to cyber threats and incidents.
+I have experience in network traffic analysis and logs analysis.
+I am passionate about learning new skills and staying updated on the latest trends and best practices in cybersecurity.</p>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
