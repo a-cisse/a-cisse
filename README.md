@@ -12,6 +12,8 @@ I am passionate about learning new skills and staying updated on the latest tren
 - <b>Vulnerability Management Projects</b>
   - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
   - [Building a Vulnerability Management Lab (Nessus)](https://github.com/alexCoding42/Nessus-Lab)
+- <b>Active Directory Projects</b>
+  - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
   
 <h2>📱 Mobile Application Projects:</h2>
 
