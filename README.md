@@ -10,8 +10,8 @@ I am passionate about learning new skills and staying updated on the latest tren
 - <b>Azure / Cloud Projects</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/alexCoding42/Cloud-SOC-Honeynet)
 - <b>Vulnerability Management Projects</b>
-  - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
   - [Building a Vulnerability Management Lab (Nessus)](https://github.com/alexCoding42/Nessus-Lab)
+  - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
 - <b>Active Directory Projects</b>
   - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
   
