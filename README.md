@@ -1,9 +1,6 @@
-<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Mobile and Web Applications Developer</a></h1>
 
-<p>I am a bilingual (French/English) cybersecurity professional with hands-on experience in vulnerability management, vulnerability assessment, and vulnerability scanning using various tools and techniques. 
-I have also built and operated SOC and Honeynet systems to monitor and respond to cyber threats and incidents.
-I have experience in network traffic analysis and logs analysis.
-I am passionate about learning new skills and staying updated on the latest trends and best practices in cybersecurity.</p>
+<p>I’m passionate about building responsive and user-friendly web and mobile applications using modern technologies like React, React Native, TypeScript, and JavaScript. I also have experience with GraphQL and the cloud platforms such as AWS or Firebase for developing scalable and secure backend solutions</p>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
