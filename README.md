@@ -2,18 +2,19 @@
 
 <p>I’m passionate about building responsive and user-friendly web and mobile applications using modern technologies like React, React Native, TypeScript, and JavaScript. I also have experience with GraphQL and the cloud platforms such as AWS or Firebase for developing scalable and secure backend solutions</p>
 
-<h2>🔐 Cybersecurity Projects:</h2>
+<h2>📱 Mobile Applications Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/alexCoding42/Cloud-SOC-Honeynet)
-- <b>Vulnerability Management Projects</b>
-  - [Building a Vulnerability Management Lab (Nessus)](https://github.com/alexCoding42/Nessus-Lab)
-  - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
-- <b>Active Directory Projects</b>
-  - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
+- <b>React Native</b>
+  - [Chaldean Numbers](https://github.com/alexCoding42/chaldean-numbers)
+  - [TranslatorGPT](https://github.com/alexCoding42/translator-gpt)
 
-<h2> 🤳🏾 Connect with me:</h2>
+- <b>Flutter</b>
+  - [Marvel Universe](https://github.com/alexCoding42/marvel_characters)
+ 
+<h2>🖥️ Web Applications Projects:</h2>
 
-[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- <b>React</b>
+  - [Corona Tracker](https://github.com/alexCoding42/corona-tracker)
 
-[linkedin]: https://linkedin.com/in/alexandrecisse
+<h2> 👨🏾‍🎨 Also see my portfolio:</h2>
+https://alexandrecisse.com/
