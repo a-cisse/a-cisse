@@ -14,20 +14,6 @@ I am passionate about learning new skills and staying updated on the latest tren
   - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
 - <b>Active Directory Projects</b>
   - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
-  
-<h2>📱 Mobile Application Projects:</h2>
-
-- <b>React Native</b>
-  - [Chaldean Numbers](https://github.com/alexCoding42/chaldean-numbers)
-  - [TranslatorGPT](https://github.com/alexCoding42/translator-gpt)
-
-- <b>Flutter</b>
-  - [Marvel Universe](https://github.com/alexCoding42/marvel_characters)
-
-<h2>🖥️ Web Application Projects:</h2>
-
-- <b>React</b>
-  - [Corona Tracker](https://github.com/alexCoding42/corona-tracker)
 
 <h2> 🤳🏾 Connect with me:</h2>
 
