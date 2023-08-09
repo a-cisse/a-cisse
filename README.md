@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Mobile and Web Applications Developer</a></h1>
 
-<p>I’m passionate about building responsive and user-friendly web and mobile applications using modern technologies like React, React Native, TypeScript, and JavaScript. I also have experience with GraphQL and the cloud platforms such as AWS or Firebase for developing scalable and secure backend solutions</p>
+<p>I’m passionate about building responsive and user-friendly web and mobile applications using modern technologies like React, React Native, TypeScript, and JavaScript. I also have experience with GraphQL and Backend-as-a-Service such as AWS Amplify or Firebase for developing scalable and secure backend solutions</p>
 
 <h2>📱 Mobile Applications Projects:</h2>
 
