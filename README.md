@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Mobile and Web Applications Developer</a></h1>
 
-<p>I’m passionate about building responsive and user-friendly web and mobile applications using modern technologies like React, React Native, TypeScript, and JavaScript. I also have experience with GraphQL and Backend-as-a-Service such as AWS Amplify or Firebase for developing scalable and secure backend solutions</p>
+<p>I’m passionate about building responsive and user-friendly web and mobile applications using modern technologies like React, React Native, TypeScript, and JavaScript. My expertise also extends to the realms of Cybersecurity, DevSecOps, and Cloud Computing, where I prioritize the integration of robust security measures throughout the development lifecycle. I have experience implementing secure coding practices, conducting vulnerability assessments, and ensuring compliance with industry standards. Additionally, I leverage GraphQL and Backend-as-a-Service solutions like AWS Amplify or Firebase to create highly scalable and secure backend systems that seamlessly integrate with cloud platforms. My holistic approach to application development encompasses not only cutting-edge technology but also the critical aspects of cybersecurity, DevSecOps principles, and efficient cloud deployment strategies.</p>
 
 <h2>📱 Mobile Applications Projects:</h2>
 
