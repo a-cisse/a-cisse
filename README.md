@@ -28,5 +28,12 @@
 - <b>Active Directory Projects</b>
   - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
 
-<h2> 👨🏾‍🎨 Also see my portfolio:</h2>
-https://alexandrecisse.com/
+<h2> 🤳🏾 Connect with me:</h2>
+
+[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />][portfolio]
+[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+
+[linkedin]: https://linkedin.com/in/alexandrecisse
+[portfolio]: https://alexandrecisse.com/
+[medium]: https://medium.com/@alexandre.cisse.ac
