@@ -2,12 +2,6 @@
 
 <p>I have a background in software development where I used to build user-friendly web and mobile applications with security in mind regarding user data. Today, I'm transitioning into cybersecurity while leveraging my knowledge in Cybersecurity, DevSecOps, Cloud Computing and Programming to protect digital assets and keep IT systems secure. I have experience designing and managing a SOC and Honeynet in Azure, migrate and deploy AWS backend solutions, configuring Active Directory for a small network, or performing vulnerabilities assessments and remediation. I'm continuously learning and enhancing my skillset through various courses, and most of all by building projects to showcase my skills. </p>
 
-<h2>♾️ DevOps Projects:</h2> 
-
-- <b>Docker</b>
-  - [Next.js App](https://github.com/alexCoding42/car_showcase)
-  - [React+Vite App](https://github.com/alexCoding42/docker_demo_react_app)
-
 <h2>🔐 Cybersecurity Projects:</h2> 
 
 - <b>Azure / Cloud Projects</b>
@@ -19,6 +13,12 @@
 
 - <b>Active Directory Projects</b>
   - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
+
+ <h2>♾️ DevOps Projects:</h2> 
+
+- <b>Docker</b>
+  - [Next.js App](https://github.com/alexCoding42/car_showcase)
+  - [React+Vite App](https://github.com/alexCoding42/docker_demo_react_app)
 
 <h2>📱 Mobile Applications Projects:</h2>
 
