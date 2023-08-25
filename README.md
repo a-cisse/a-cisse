@@ -17,7 +17,7 @@
  <h2>♾️ DevOps Projects:</h2>
 
 - <b>Ansible</b>
-  - [Demo project (still under construction)]( https://github.com/alexCoding42/ansible-demo-project)
+  - [Demo project]( https://github.com/alexCoding42/ansible-demo-project) :warning: *Project still under construction*
 
 - <b>Docker</b>
   - [Next.js App](https://github.com/alexCoding42/car_showcase)
