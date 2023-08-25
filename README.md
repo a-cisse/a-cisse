@@ -14,7 +14,10 @@
 - <b>Active Directory Projects</b>
   - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
 
- <h2>♾️ DevOps Projects:</h2> 
+ <h2>♾️ DevOps Projects:</h2>
+
+- <b>Ansible</b>
+  - [Demo project (still under construction)]( https://github.com/alexCoding42/ansible-demo-project)
 
 - <b>Docker</b>
   - [Next.js App](https://github.com/alexCoding42/car_showcase)
