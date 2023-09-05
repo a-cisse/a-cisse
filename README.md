@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Web $ Mobile Developer / DevSecOps</a></h1>
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Web & Mobile Developer / DevSecOps</a></h1>
 
 <p>I have a background in software development where I used to build user-friendly web and mobile applications with security in mind regarding user data. Today, I'm transitioning into cybersecurity and leveraging my knowledge in DevOps, Automation, Cloud Computing and Programming to protect digital assets and keep IT systems secure. I have experience designing and managing a SOC and Honeynet in Azure, migrating and deploying AWS solutions, configuring Active Directory for a small network, or performing vulnerabilities assessments and remediation. I'm continuously learning on daily basis to enhance my skillset, and most of all I build my own projects to showcase my skills. </p>
 
