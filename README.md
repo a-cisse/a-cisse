@@ -9,7 +9,7 @@
 
 - <b>Docker</b>
   - [Next.js App](https://github.com/alexCoding42/car_showcase)
-  - [React+Vite App](https://github.com/alexCoding42/docker_demo_react_app)
+  - [Fullstack website](https://github.com/alexCoding42/real_estate_website)
  
 <h2>🖥️ Web Applications Projects:</h2>
 
