@@ -32,6 +32,7 @@
 - <b>React Native</b>
   - [Chaldean Numbers](https://github.com/alexCoding42/chaldean-numbers)
   - [TranslatorGPT](https://github.com/alexCoding42/translator-gpt)
+  - [Instagram clone](https://github.com/alexCoding42/instagram-fullstack-mobile-app)
 
 - <b>Flutter</b>
   - [Marvel Universe](https://github.com/alexCoding42/marvel_characters)
