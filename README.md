@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | DevOps | Software Developer</a></h1>
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | Software Developer | DevOps</a></h1>
 
 <p>With more than 4 years experience in web and mobile development, I excel in the software development life cycle, Agile methodologies, and DevOps practices. I have a strong foundation in modern tech and tools such as React/React Native frameworks, Javascript/Typescript programming languages, Docker, Jenkins, Ansible. My cybersecurity journey includes creating a secure network with Active Directory, setting up a Honeynet in Azure, and building a real-time SOC with Microsoft Sentinel. I also possess knowledge in application and API security, staying updated on OWASP Top 10 And OWASP API Top 10 and using tools like Burp Suite and Wfuzz. I'm eager to collaborate on secure and innovative projects with DevOps and cybersecurity professionals. Let's connect for exciting opportunities.</p>
 
@@ -36,6 +36,7 @@
 
 - <b>Flutter</b>
   - [Marvel Universe](https://github.com/alexCoding42/marvel_characters)
+  - [WhatsApp Messenger clone](https://github.com/alexCoding42/whatsapp_messenger)
 
 <h2> 🤳🏾 Connect with me:</h2>
 
