@@ -13,6 +13,10 @@
 - <b>Vulnerability Management Projects</b>
   - [Building a Vulnerability Management Lab (Nessus)](https://github.com/AlCisTech/Nessus-Lab)
   - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
+ 
+- <b>Python</b>
+  - [Network Scanner](https://github.com/alexCoding42/network_scanner)
+    
  <h2>♾️ DevOps Projects:</h2>
 
 - <b>Ansible</b>
