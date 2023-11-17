@@ -22,6 +22,9 @@
 - <b>Ansible</b>
   - [Demo project](https://github.com/alexCoding42/AnsibleDemo)
 
+- <b>Gitlab CI/CD</b>
+  - [Python App](https://gitlab.com/alex_coding/python-demoapp)
+
 - <b>Docker</b>
   - [Next.js App](https://github.com/alexCoding42/car_showcase)
   - [Fullstack website](https://github.com/alexCoding42/real_estate_website)
