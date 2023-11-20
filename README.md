@@ -20,7 +20,7 @@
  <h2>♾️ DevOps Projects:</h2>
 
 - <b>Ansible</b>
-  - [Demo project](https://github.com/alexCoding42/AnsibleDemo)
+  - [Install httpd web servers on servers](https://github.com/alexCoding42/ansible-web-server)
 
 - <b>Gitlab CI/CD</b>
   - [Python App](https://gitlab.com/alex_coding/python-demoapp)
