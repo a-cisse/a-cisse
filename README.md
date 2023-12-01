@@ -1,6 +1,8 @@
-<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | Software Developer | DevOps</a></h1>
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | DevOps | Software Developer</a></h1>
 
-<p>With more than 4 years experience in web and mobile development, I excel in the software development life cycle, Agile methodologies, and DevOps practices. I have a strong foundation in modern tech and tools such as React/React Native frameworks, Javascript/Typescript programming languages, Docker, Jenkins, Ansible. My cybersecurity journey includes creating a secure network with Active Directory, setting up a Honeynet in Azure, and building a real-time SOC with Microsoft Sentinel. I also possess knowledge in application and API security, staying updated on OWASP Top 10 And OWASP API Top 10 and using tools like Burp Suite and Wfuzz. I'm eager to collaborate on secure and innovative projects with DevOps and cybersecurity professionals. Let's connect for exciting opportunities.</p>
+<p>With over 4 years as a web and mobile application developer, I've thrived in Agile and DevOps-focused environments. Acknowledging the pivotal role of cybersecurity, I transitioned successfully into this field, completing training at the Cisco Networking Academy, a cybersecurity masterclass, and earning certifications like Google's Cybersecurity Professional Certificate and CompTIA Security+. 
+
+My projects range from setting up a Honeynet and SOC in Microsoft Azure to exploring infra-as-code with Ansible, configuring Active Directory with Windows Server 2019, and addressing vulnerabilities using Nessus and OpenVAS. My expertise in automation, DevOps, and cybersecurity aligns with my pursuit of roles such in Defensive Security/Blue Team such as a Cybersecurity Analyst or SOC Analyst, and I stay current by tackling practical challenges on platforms like TryHackMe and CTF.</p>
 
 <h2>🔐 Cybersecurity Projects:</h2> 
 
