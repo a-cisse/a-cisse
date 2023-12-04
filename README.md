@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | DevOps | Software Developer</a></h1>
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | Software Developer</a></h1>
 
 <p>With over 4 years as a web and mobile application developer, I've thrived in Agile and DevOps-focused environments. Acknowledging the pivotal role of cybersecurity, I transitioned successfully into this field, completing training at the Cisco Networking Academy, a cybersecurity masterclass, and earning certifications like Google's Cybersecurity Professional Certificate and CompTIA Security+. 
 
