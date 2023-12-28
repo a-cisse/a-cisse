@@ -40,7 +40,7 @@ My projects range from setting up a Honeynet and SOC in Microsoft Azure to explo
 
 - <b>React Native</b>
   - [Biometrics](https://github.com/alexCoding42/biometrics)
-  - [Chaldean Numbers](https://github.com/alexCoding42/chaldean-numbers)
+  - [Chaldean Numbers](https://github.com/alexCoding42/ChaldeanNumbers)
   - [TranslatorGPT](https://github.com/alexCoding42/translator-gpt)
 
 - <b>Flutter</b>
