@@ -5,14 +5,14 @@
 <h2>🔐 Cybersecurity Projects:</h2> 
 
 - <b>Azure / Cloud Projects</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/alexCoding42/Cloud-SOC-Honeynet)
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/a-cisse/Cloud-SOC-Honeynet)
 
 - <b>Active Directory Projects</b>
-  - [Configuring Active Directory](https://github.com/alexCoding42/active-directory)
+  - [Configuring Active Directory](https://github.com/a-cisse/active-directory)
 
 - <b>Vulnerability Management Projects</b>
-  - [Building a Vulnerability Management Lab (Nessus)](https://github.com/AlCisTech/Nessus-Lab)
-  - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/alexCoding42/OpenVAS-Lab)
+  - [Building a Vulnerability Management Lab (Nessus)](https://github.com/a-cisse/Nessus-Lab)
+  - [Building a Vulnerability Management Lab (OpenVAS)](https://github.com/a-cisse/OpenVAS-Lab)
  
 - <b>Python</b>
-  - [Network Scanner](https://github.com/alexCoding42/network_scanner)
+  - [Network Scanner](https://github.com/a-cisse/network_scanner)
