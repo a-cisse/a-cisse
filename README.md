@@ -1,8 +1,6 @@
-<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst | Software Developer</a></h1>
+<h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst</a></h1>
 
-<p>With over 4 years as a web and mobile application developer, I've thrived in Agile and DevOps-focused environments. Acknowledging the pivotal role of cybersecurity, I transitioned successfully into this field, completing training at the Cisco Networking Academy, a cybersecurity masterclass, and earning certifications like Google's Cybersecurity Professional Certificate and CompTIA Security+. 
-
-My projects range from setting up a Honeynet and SOC in Microsoft Azure to exploring infra-as-code with Ansible, configuring Active Directory with Windows Server 2019, and addressing vulnerabilities using Nessus and OpenVAS. My expertise in automation, DevOps, and cybersecurity aligns with my pursuit of roles such in Defensive Security/Blue Team such as a Cybersecurity Analyst or SOC Analyst, and I stay current by tackling practical challenges on platforms like TryHackMe and CTF.</p>
+<p>After more than 4 years in web and mobile development I decided to transition to cybersecurity.</p>
 
 <h2>🔐 Cybersecurity Projects:</h2> 
 
@@ -18,40 +16,3 @@ My projects range from setting up a Honeynet and SOC in Microsoft Azure to explo
  
 - <b>Python</b>
   - [Network Scanner](https://github.com/alexCoding42/network_scanner)
-    
- <h2>♾️ DevOps Projects:</h2>
-
-- <b>Ansible</b>
-  - [Install httpd web servers on servers](https://github.com/alexCoding42/ansible-web-server)
-
-- <b>Gitlab CI/CD</b>
-  - [Python App](https://gitlab.com/alex_coding/python-demoapp)
-
-- <b>Docker</b>
-  - [Next.js App](https://github.com/alexCoding42/car_showcase)
-  - [Fullstack website](https://github.com/alexCoding42/real_estate_website)
- 
-<h2>🖥️ Web Applications Projects:</h2>
-
-- <b>React</b>
-  - [Real Estate Website](https://github.com/alexCoding42/real_estate_website)
-
-<h2>📱 Mobile Applications Projects:</h2>
-
-- <b>React Native</b>
-  - [Biometrics](https://github.com/alexCoding42/biometrics)
-  - [Chaldean Numbers](https://github.com/alexCoding42/ChaldeanNumbers)
-  - [TranslatorGPT](https://github.com/alexCoding42/translator-gpt)
-
-- <b>Flutter</b>
-  - [Marvel Universe](https://github.com/alexCoding42/marvel_characters)
-
-<h2> 🤳🏾 Connect with me:</h2>
-
-[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[🌐][portfolio]
-[<img align="left" alt="AlexandreCisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
-
-[linkedin]: https://linkedin.com/in/alexandrecisse
-[portfolio]: https://alexandrecisse.com/
-[medium]: https://medium.com/@alexandre.cisse.ac
