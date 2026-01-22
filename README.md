@@ -1,6 +1,7 @@
 <h1>Hi, I'm Alexandre! <a href="https://www.linkedin.com/in/alexandrecisse/">Cybersecurity Analyst</a></h1>
 
-<p>After more than 4 years in web and mobile development I decided to transition to cybersecurity.</p>
+<p>I specialize in deep digital investigations and targeted incident response. I intervene in high-sensitivity environments to perform host-based forensics on workstations and servers, ensuring technical clarity during critical security events.
+Beyond reactive response, I lead proactive Cyber Threat Intelligence (CTI) initiatives. I develop custom monitoring solutions to track ransomware groups, identify credential leaks, and detect typosquatting campaigns, transforming raw data into actionable intelligence to protect national interests.</p>
 
 <h2>🔐 Cybersecurity Projects:</h2> 
 
